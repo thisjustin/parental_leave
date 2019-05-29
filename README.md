@@ -13,7 +13,7 @@ As {{COMPANY}} grows (yay!) it becomes necessary to revisit decisions that were 
 In this document we will lay out an argument for why the current policy (no paid parental leave) is doing a disservice to the company and how the company would benefit from adopting a new policy more in line with its size, stage, peers and the overall market.
 
 ## A Fair and Competitive Parental Leave Policy
-We propose the company adopt a policy of 6 weeks paid time off to be used by the child’s first birthday as a universal parental leave policy.
+We propose the company adopt a policy of {{6 weeks (adjust based on your situation)}} paid time off to be used by the child’s first birthday as a universal parental leave policy.
 
 We reached this conclusion after conducting research into the general market of parental leave, what the current state of academic research says about optimal leave, looking at how parental leave has impacted other companies, and evaluating our overall compensation.
 
