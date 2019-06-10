@@ -57,5 +57,6 @@ We reached this conclusion after conducting research into the general market of 
 1. How Our Small Startup Affords to Offer Maternity Leave: https://www.fastcompany.com/3043764/how-our-small-startup-affords-to-offer-paid-maternity-leave
 1. Strong Families, Strong Business: A Step Forward in Parental Leave at Etsy: https://blog.etsy.com/news/2016/strong-families-strong-business-a-step-forward-in-parental-leave-at-etsy/
 1. Center for Parental Leave Leadership: http://cplleadership.com/
+1. Sweden Finds a Simple Way to Improve New Mothers' Health: https://www.nytimes.com/2019/06/04/upshot/sweden-finds-a-simple-way-to-improve-new-mothers-health-it-involves-fathers.html?smid=tw-nytimes&smtyp=cur
 
 
