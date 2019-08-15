@@ -59,4 +59,4 @@ We reached this conclusion after conducting research into the general market of 
 1. Center for Parental Leave Leadership: http://cplleadership.com/
 1. Sweden Finds a Simple Way to Improve New Mothers' Health: https://www.nytimes.com/2019/06/04/upshot/sweden-finds-a-simple-way-to-improve-new-mothers-health-it-involves-fathers.html?smid=tw-nytimes&smtyp=cur
 1. Paternity Leave Was Crucial After the Birth of My Child, and Every Father Deserves It: https://parenting.nytimes.com/work-money/alexis-ohanian-paternity-leave
-
+1. Why Walmart Expanded Parental Leave — and How to Convince Your Company to Do the Same: https://hbr.org/2018/03/why-walmart-expanded-parental-leave-and-how-to-convince-your-company-to-do-the-same
